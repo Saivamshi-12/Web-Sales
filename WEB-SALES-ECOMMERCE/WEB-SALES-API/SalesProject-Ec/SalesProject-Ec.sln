@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesProject-Ec", "SalesProject-Ec\SalesProject-Ec.csproj", "{E2402A3F-AF92-407C-A298-E8EB1798DE9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositary", "Repositary", "{978255CF-1CB0-45C2-9701-A82AA9928CE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IRepositary", "IRepositary", "{F445539F-46DE-43D2-8F73-4511DE2E8A3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepositaryClass", "RepositaryClass", "{EE9728F1-B6D3-41B0-813D-65AA68E5D2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2402A3F-AF92-407C-A298-E8EB1798DE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2402A3F-AF92-407C-A298-E8EB1798DE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2402A3F-AF92-407C-A298-E8EB1798DE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2402A3F-AF92-407C-A298-E8EB1798DE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F445539F-46DE-43D2-8F73-4511DE2E8A3E} = {978255CF-1CB0-45C2-9701-A82AA9928CE4}
+		{EE9728F1-B6D3-41B0-813D-65AA68E5D2A2} = {978255CF-1CB0-45C2-9701-A82AA9928CE4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785B2035-2026-47ED-82F3-BFF788A6A309}
+	EndGlobalSection
+EndGlobal
